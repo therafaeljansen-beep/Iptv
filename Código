@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Esportes",SporTV 1
+http://95.211.149.215:8081/look/sportv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",SporTV 2
+http://95.211.149.215:8081/look/sportv2/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",SporTV 3
+http://95.211.149.215:8081/look/sportv3/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN
+http://95.211.149.215:8081/look/espn/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 2
+http://95.211.149.215:8081/look/espn2/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 3
+http://95.211.149.215:8081/look/espn3/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",BandSports
+http://95.211.149.215:8081/look/bandsports/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",Premiere
+http://95.211.149.215:8081/look/premiere/playlist.m3u8
