@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Esportes",SporTV 1
+#EXTINF:-1 tvg-id="sportv1" tvg-name="SporTV 1" group-title="Esportes",SporTV 1
 http://95.211.149.215:8081/look/sportv1/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",SporTV 2
+#EXTINF:-1 tvg-id="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2
 http://95.211.149.215:8081/look/sportv2/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="sportv3" tvg-name="SporTV 3" group-title="Esportes",SporTV 3
 http://95.211.149.215:8081/look/sportv3/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Esportes",ESPN
 http://95.211.149.215:8081/look/espn/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2
 http://95.211.149.215:8081/look/espn2/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" group-title="Esportes",ESPN 3
 http://95.211.149.215:8081/look/espn3/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",BandSports
+#EXTINF:-1 tvg-id="bandsports" tvg-name="BandSports" group-title="Esportes",BandSports
 http://95.211.149.215:8081/look/bandsports/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes",Premiere
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" group-title="Esportes",Premiere
 http://95.211.149.215:8081/look/premiere/playlist.m3u8
